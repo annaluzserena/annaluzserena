@@ -28,4 +28,4 @@ jobs:
         uses: Platane/snk/svg-only@v1.1.2
         with:
           github_user_name: ${{ github.annaluzserena }}
-          svg_out_path: https://github.com/annaluzserena/annaluzserena
+          svg_out_path: dist/github-contribution-grid-snake.svg
