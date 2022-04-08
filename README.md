@@ -4,6 +4,8 @@
 - 🌱 Soy desarrolladora web Fullstack Jr. y estoy comenzando en el mundo de la Ciberseguridad
 - ⚡ Fun fact: el primer episodio de Star Wars casi causa una guerra
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
 
 
 
