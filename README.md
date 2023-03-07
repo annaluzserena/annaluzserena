@@ -1,4 +1,8 @@
-![](https://user-images.githubusercontent.com/86026739/162335634-ef0259a4-b09c-4354-8ed9-e210c35345fc.png)
+![](https://github-readme-streak-stats.herokuapp.com/?user=annaluzserena&theme=tokyonight&hide_border=true)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=annaluzserena&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 - 🔭 Actualmente estoy trabajando en un proyecto de NodeJS de manera freelance
 - 🌱 Soy desarrolladora web Fullstack Jr. y estoy comenzando en el mundo del Hacking Ético
