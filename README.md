@@ -4,8 +4,8 @@
 [![](https://visitcount.itsvg.in/api?id=annaluzserena&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-- 🔭 Actualmente estoy trabajando en un proyecto de NodeJS de manera freelance
-- 🌱 Soy desarrolladora web Fullstack Jr. y estoy comenzando en el mundo del Hacking Ético
+- 🔭 Actualmente estoy estudiando Ingeniería en Sistemas de Información en la UTN.
+- 🌱 Soy desarrolladora web Fullstack Jr. MERN.
 - ⚡ Fun fact: el primer episodio de Star Wars casi causa una guerra
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
